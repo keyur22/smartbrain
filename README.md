@@ -9,9 +9,13 @@ Front End of the app is created using React.
 NodeJS, ExpressJS is used for server side scripting.
 PostgreSql is used to store user information.
 
+External Libraries like Bcrypt and KnexJS are also used.
+
 This repo contains cource code for the front end part of the app.
 The app is deployed on heroku along with the server and database.
 
 **Technologies Used:** HTML%, CSS3, JS(ES6, ES7, ES8), React, NodeJS, ExpressJS, postgreSQL, SQL
+
+**Libraries Used:** Bcrypt, KnexJS
 
 **Link:** https://smartbrain-face-detection.herokuapp.com/
