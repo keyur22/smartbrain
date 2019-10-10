@@ -2,6 +2,7 @@
 
 This web application allows the user to detect faces in the image uploaded by them.
 It makes use of Clarifai face detection API.
+
 Users can register and upload the image. 
 An entry count is maintained for every user which indicates how many times the user has detected faces.
 
