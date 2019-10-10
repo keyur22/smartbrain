@@ -14,7 +14,7 @@ External Libraries like Bcrypt and KnexJS are also used.
 This repo contains source code for the front end part of the app.
 The app is deployed on heroku along with the server and database.
 
-**Technologies Used:** HTML%, CSS3, JS(ES6, ES7, ES8), React, NodeJS, ExpressJS, postgreSQL, SQL
+**Technologies Used:** HTML5, CSS3, JS, React, NodeJS, ExpressJS, postgreSQL
 
 **Libraries Used:** Bcrypt, KnexJS
 
